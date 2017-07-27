@@ -1,0 +1,48 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+    
+    background-image: url("1.gif") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+div#test{
+
+    margin: 50px auto;
+    width: 50%;
+    border: 1px solid black;
+    padding: 10px 40px 40px 40px;
+        box-shadow: 10px 10px 5px #888888;
+    border: none;
+}
+button{
+      width: 120px;
+    border-radius: 30px;
+    background-color: #009688;
+    color: rgb(255, 255, 255);
+    font-size: 1.5em;
+    padding: 5px;
+
+}
+button:hover{
+background-color: #555555;
+    color: white;
+}
+input{
+    margin: 10px;
+}
+h3,h1,h2{
+    text-align: center;
+}
+h1.title{
+    color: rgb(9, 183, 167);
+	text-align:center;
+	font-size:70px;
+	font-family:'Calibri';
+	text-shadow: 4px 4px 5px #000000;
+    margin-top: 20px;
+    
+}
